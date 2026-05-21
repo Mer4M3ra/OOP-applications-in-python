@@ -43,6 +43,6 @@ class train(vehicle):
 
 
 
-electricCar1 = electricCar("BYD", "Seal", 2025, 4, 82)
+Car1 = electricCar("BYD", "Seal", 2025, 4, 82)
 
 
